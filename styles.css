@@ -6,6 +6,10 @@ body {
     background-color: rgb(255, 255, 255);
 }
 
+h1 {
+    color:rgb(78, 122, 216);
+}
+
 audio { 
     width: 100%; /* Set the width of the audio player controls */
 }
